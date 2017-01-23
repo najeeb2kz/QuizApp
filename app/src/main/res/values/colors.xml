@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- The app branding color for the app bar -->
+    <color name="colorPrimary">#F0514B</color>
+    <!-- Darker variant for the status bar and contextual app bars -->
+    <color name="colorPrimaryDark">#C0403C</color>
+    <!-- App background color: Teal 100 -->
+    <color name="app_background_color">#B2DFDB</color>
+
+    <color name="radio_button_color">#536DFE</color>
+
+    <color name="checkbox_color">#536DFE</color>
+    
+    <color name="spinner_color">#536DFE</color>
+
+    <color name="submit_button">#C0403C</color>
+
+</resources>

@@ -1,0 +1,62 @@
+<resources>
+
+    <string name="app_name">Quiz App</string>
+    <string name="action_settings">Settings</string>
+
+    <!--  Radio button  -->
+    <string name="question_number_of_colors">Question: How many visible colors are in rainbow?</string>
+
+    <!--  Checkbox  -->
+    <string name="question_end_colors">Question: What are outermost and innermost colors in rainbow?</string>
+
+    <!--  Spinner  -->
+    <string name="question_not_found_color">Question: What color is not in rainbow?</string>
+
+    <!--  Toggle On/off button  -->
+    <string name="question_secondary_rainbow">Question: Can there be a secondary rainbow?</string>
+
+    <!--  Text entry  -->
+    <string name="question_secondary_rainbow_color_order">Question: Is order of colors in secondary rainbow reversed? (yes/no)</string>
+
+    <!--  Label: answer  -->
+    <string name="answer">Answer:</string>
+
+    <!--  Radio button: 6  -->
+    <string name="number_6">6</string>
+
+    <!--  Radio button: 7  -->
+    <string name="number_7">7</string>
+
+    <!--  Radio button: 8  -->
+    <string name="number_8">8</string>
+
+    <!--  Checkbox: red  -->
+    <string name="checkbox_red">Red</string>
+
+    <!--  Checkbox: yellow  -->
+    <string name="checkbox_yellow">Yellow</string>
+
+    <!--  Checkbox: blue  -->
+    <string name="checkbox_blue">Blue</string>
+
+    <!--  Checkbox: violet  -->
+    <string name="checkbox_violet">Violet</string>
+
+    <!--  Spinner: orange  -->
+    <string name="spinner_orange">Orange</string>
+
+    <!--  Spinner: green  -->
+    <string name="spinner_green">Green</string>
+
+    <!--  Spinner: pink  -->
+    <string name="spinner_pink">Pink</string>
+
+    <!--  Toggle: on  -->
+    <string name="toggle_turn_on">Yes</string>
+
+    <!--  Toggle: off  -->
+    <string name="toggle_turn_off">No</string>
+
+    <!--  Submit button  -->
+    <string name="submit">Submit</string>
+</resources>
